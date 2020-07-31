@@ -217,9 +217,6 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/186
 #EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Hindi",B4U Movies
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/651
 
-#EXTINF:-1,Hungama Digital Network
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Lotus Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Movies",Lotus Macau
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/731
 
@@ -306,6 +303,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/650
 
 #EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.exchange4media.com/news-photo/1520499305_cwcokX_B4U_MUSIC_LOGO_NEW.jpg" group-title="Hindi",B4U Music
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/93
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUmsKNCERukSkPz6wQ8fF0yKRDgmO4dr3TJnTPnfIn7sASlFYj&usqp=CAU" group-title="MIXED02",Hungama Digital Network
+PT1BTzFOVGJ1WWpNMEVXWTBjek4zRVdZa0JEWmtSak00a0RNeFlXTXlFMllqSnpZd2t6TXZRWFp1NVNaMEZXYjJSSGNwNUNhajl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png" group-title="Music",MTV
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/163
